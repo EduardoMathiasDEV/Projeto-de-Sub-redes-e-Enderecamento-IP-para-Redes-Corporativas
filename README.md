@@ -4,7 +4,6 @@
 
 📡 **Disciplina:** Redes de Computadores  
 👨‍🏫 **Professor:** Mozart Hasse  
-📑 **Atividade Discente Supervisionada (ADS 1)**  
 
 ---
 
