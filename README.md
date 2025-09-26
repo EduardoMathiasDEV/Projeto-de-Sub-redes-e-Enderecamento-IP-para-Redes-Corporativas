@@ -57,11 +57,4 @@ Cada sub-rede foi isolada em termos de segurança (não há comunicação direta
 - **CIDR Notation** – para representação de endereços IP.  
 - **Diagramas/Tabelas** – para organização dos resultados.  
 
----
 
-## 🚀 Como Reproduzir
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/SEU-USUARIO/Projeto-de-Subredes.git
-   cd Projeto-de-Subredes
