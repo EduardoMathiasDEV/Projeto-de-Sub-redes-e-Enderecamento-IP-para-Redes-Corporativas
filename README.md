@@ -1,7 +1,5 @@
 # Projeto-de-Sub-redes-e-Enderecamento-IP-para-Redes-Corporativas
 
-# Projeto de Sub-redes e Endereçamento IP para Redes Corporativas
-
 📡 **Disciplina:** Redes de Computadores  
 👨‍🏫 **Professor:** Mozart Hasse  
 
